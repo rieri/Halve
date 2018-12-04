@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Post: Quote"
+title: "Quote: Galileo Galilei"
 categories:
-  - Post Formats
+  - Quote
 tags:
-  - Post Formats
-  - quote
+  - Quote
+  - Galileo Galilei
 ---
 
 > Mathematics is the language with which God has written the universe.
