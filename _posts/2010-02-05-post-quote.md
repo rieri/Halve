@@ -8,6 +8,6 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> Mathematics is the language with which God has written the universe.
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="https://www.quotes.net/quote/40051.html">Galileo Galilei</a></cite>
