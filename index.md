@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# About The Blog
 
 It is a new experiment of my work
