@@ -9,3 +9,5 @@ tags:
 ---
 
 > Life is optimization.
+  
+> <cite><a href="https://www.maths.ed.ac.uk/~gondzio/">Jacek Gondzio</a></cite>
