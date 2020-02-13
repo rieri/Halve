@@ -10,7 +10,7 @@ tags:
 
 > Érik a gabona,
   Melegek a napok,
-  Hétfőn virradóra,
+  Hétfőn virradóra
   Aratásba kapok.
   Érik szerelmem is,
   Mert forró a szivem; 
