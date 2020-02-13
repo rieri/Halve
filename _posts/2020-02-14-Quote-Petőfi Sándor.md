@@ -9,8 +9,8 @@ tags:
 ---
 
 > Érik a gabona,
->Melegek a napok,
->Hétfőn virradóra
+*Melegek a napok,*
+*Hétfőn virradóra,*
 >Aratásba kapok.
 >Érik szerelmem is,
 >Mert forró a szivem;
